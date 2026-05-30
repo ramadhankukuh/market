@@ -1,0 +1,71 @@
+{
+  "description": "Data pertumbuhan Produk Domestik Bruto (PDB) Indonesia tahun 2016-2026 (YoY) berdasarkan rilis resmi BPS.",
+  "data": {
+    "2016": {
+      "Q1": 4.94,
+      "Q2": 5.21,
+      "Q3": 5.03,
+      "Q4": 4.94
+    },
+    "2017": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    },
+    "2018": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    },
+    "2019": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    },
+    "2020": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    },
+    "2021": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    },
+    "2022": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": 5.01
+    },
+    "2023": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": 4.04
+    },
+    "2024": {
+      "Q1": null,
+      "Q2": null,
+      "Q3": null,
+      "Q4": 5.02
+    },
+    "2025": {
+      "Q1": 4.87,
+      "Q2": 5.12,
+      "Q3": 5.04,
+      "Q4": 5.39
+    },
+    "2026": {
+      "Q1": 5.61,
+      "Q2": null,
+      "Q3": null,
+      "Q4": null
+    }
+  }
+}
