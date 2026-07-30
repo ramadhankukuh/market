@@ -1,0 +1,16 @@
+{
+  "description": "Rasio Utang Pemerintah terhadap PDB Indonesia (akhir tahun/Desember) berdasarkan data APBN KiTa Kementerian Keuangan RI. Batas aman sesuai UU No. 17/2003 adalah 60% PDB. Data 2026: Q1 (Maret) = 40.80%, sedangkan Desember 2026 belum dirilis.",
+  "data": {
+    "2016": 27.96,
+    "2017": 29.20,
+    "2018": 29.98,
+    "2019": 30.23,
+    "2020": 39.40,
+    "2021": 40.70,
+    "2022": 39.57,
+    "2023": 39.21,
+    "2024": 39.80,
+    "2025": 40.50,
+    "2026": null
+  }
+}
